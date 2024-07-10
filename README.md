@@ -4,11 +4,11 @@ This project creates chat local interfaces for multiple PDF documents using Llam
 ## Installation Steps
 1. Clone the repository:
 ```shell
-git clone https://github.com/fahriialfiansyah/langchain-ollama-llama3-chat-pdf.git
+git clone https://github.com/fahriialfiansyah/llamaindex-ollama-llama3-chat-pdf.git
 ```
 2. Navigate to the project directory:
 ```shell
-cd langchain-ollama-llama3-chat-pdf
+cd llamaindex-ollama-llama3-chat-pdf
 ```
 3. This project uses [Pip Python](https://pip.pypa.io/en/stable/) for dependency management. Install the required dependencies:
 ```shell

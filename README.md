@@ -1,5 +1,17 @@
 # Chat with Multiple PDF Using LlamaIndex, Ollama, and Llama3 8B
-This project creates chat local interfaces for multiple PDF documents using LlamaIndex, Ollama, and the LLaMA 3 8B model. The repository includes sample pdf, notebook, and requirements for interacting with and extracting information from PDFs, enabling efficient conversations with document content. It uses Python 3.12.4 and Chroma as the vector database.
+This project creates chat local interfaces for multiple PDF documents using LlamaIndex, Ollama, and the LLaMA 3 8B model. The repository includes sample pdf, notebook, and requirements for interacting with and extracting information from PDFs, enabling efficient conversations with document content using Python 3.12.4.
+
+## File Information
+[notebook_1.ipynb](https://github.com/fahriialfiansyah/llamaindex-ollama-llama3-chat-pdf/blob/main/notebook_1.ipynb):
+- Vector database: Chroma
+- LLM: Llama3-8B
+- Embedding: Llama3-8B
+
+[notebook_2.ipynb](https://github.com/fahriialfiansyah/llamaindex-ollama-llama3-chat-pdf/blob/main/notebook_2.ipynb):
+- Vector database: Chroma
+- LLM: Llama3-8B
+- Embedding: bge-small-en-v1.5
+
 
 ## Installation Steps
 1. Clone the repository:
